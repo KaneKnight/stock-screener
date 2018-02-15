@@ -1,0 +1,3416 @@
+<table style="font-size:7pt; " border="2" cellspacing="2" cellpadding="2" id=sort1 class="sortable table table-fixed vertical-align-middle table-bordered"><thead id='thead' ><tr >
+<th class="noSort"><a href="#" onClick="return compare('sort1');">Compare</a><br><span style="font-size:6pt;">(<a style="font-size:6pt;" href="#" onClick="return showAllRows('sort1');">Show all</a>)</span></th>
+<th>Company</th>
+<th>Ticker</th>
+<th>Last Price (native)</th>
+<th>Change (native)</th>
+<th>Change (%)</th>
+<th>Day Low</th>
+<th>Day High</th>
+<th>52 Week Low</th>
+<th>52 Week High</th>
+<th>Volume</th>
+<th>MC (M CAD$)</th>
+</tr></thead><tbody style="text-align:right;"><tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/newmont-mining-corp-nyse">Newmont Mining Corp.</a></td>
+<td>NEM</td>
+<td>37.51</td>
+<td class=pos>0.010</td>
+<td class=pos>0.03%</td>
+<td>37.37</td>
+<td>37.77</td>
+<td>31.42</td>
+<td>39.63</td>
+<td>2,725,899</td>
+<td>25,082.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/barrick-gold-corporation-nyse">Barrick Gold Corp.</a></td>
+<td>ABX</td>
+<td>14.45</td>
+<td class=pos>0.020</td>
+<td class=pos>0.14%</td>
+<td>14.40</td>
+<td>14.56</td>
+<td>13.28</td>
+<td>20.78</td>
+<td>5,620,513</td>
+<td>21,421.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/franco-nevada-corporation-tsx">Franco-Nevada Corp.</a></td>
+<td>FNV.TO</td>
+<td>100.10</td>
+<td class=pos>0.360</td>
+<td class=pos>0.36%</td>
+<td>99.59</td>
+<td>100.64</td>
+<td>79.71</td>
+<td>110.18</td>
+<td>263,835</td>
+<td>18,657.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/newcrest-mining-ltd-asx">Newcrest Mining Ltd.</a></td>
+<td>NCM.AX</td>
+<td>22.82</td>
+<td class=pos>0.250</td>
+<td class=pos>1.10%</td>
+<td>22.93</td>
+<td>23.18</td>
+<td>19.26</td>
+<td>25.33</td>
+<td>1,140,798</td>
+<td>17,337.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/goldcorp-inc-nyse">Goldcorp Inc.</a></td>
+<td>GG</td>
+<td>12.71</td>
+<td class=pos>0.060</td>
+<td class=pos>0.47%</td>
+<td>12.65</td>
+<td>12.86</td>
+<td>11.64</td>
+<td>17.87</td>
+<td>4,299,714</td>
+<td>14,112.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/agnico-eagle-mines-ltd-nyse">Agnico-Eagle Mines Ltd.</a></td>
+<td>AEM</td>
+<td>46.33</td>
+<td class=neg>-0.150</td>
+<td class=neg>-0.32%</td>
+<td>45.98</td>
+<td>46.60</td>
+<td>39.30</td>
+<td>51.86</td>
+<td>760,060</td>
+<td>13,325.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/fresnillo-plc-lse">Fresnillo Plc</a></td>
+<td>FRES.L</td>
+<td>1,271.00</td>
+<td class=pos>58.500</td>
+<td class=pos>4.60%</td>
+<td>1,262.00</td>
+<td>1,333.00</td>
+<td>1,213.00</td>
+<td>1,746.00</td>
+<td>1,328,606</td>
+<td>9,797.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/kinross-gold-corporation-nyse">Kinross Gold Corp.</a></td>
+<td>KGC</td>
+<td>4.30</td>
+<td class=pos>0.020</td>
+<td class=pos>0.47%</td>
+<td>4.28</td>
+<td>4.35</td>
+<td>3.13</td>
+<td>4.91</td>
+<td>3,759,490</td>
+<td>6,841.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/royal-gold-inc-nasdaqgs">Royal Gold, Inc.</a></td>
+<td>RGLD</td>
+<td>82.05</td>
+<td class=pos>0.070</td>
+<td class=pos>0.09%</td>
+<td>80.72</td>
+<td>82.63</td>
+<td>61.00</td>
+<td>94.39</td>
+<td>822,343</td>
+<td>6,737.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/randgold-resources-ltd-nasdaqgs">Randgold Resources Ltd.</a></td>
+<td>GOLD.L</td>
+<td>39.00</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>99.79</td>
+<td>104.92</td>
+<td>99.79</td>
+<td>10,730.40</td>
+<td>304</td>
+<td>6,254.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/anglogold-ashanti-ltd-nyse">AngloGold Ashanti Ltd.</a></td>
+<td>AGG.AX</td>
+<td>2.46</td>
+<td class=neg>-0.010</td>
+<td class=neg>-0.41%</td>
+<td>2.44</td>
+<td>2.48</td>
+<td>2.34</td>
+<td>3.70</td>
+<td>19,269</td>
+<td>4,775.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/evolution-mining-limited-asx">Evolution Mining Limited</a></td>
+<td>EVN.AX</td>
+<td>2.65</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>2.62</td>
+<td>2.69</td>
+<td>1.89</td>
+<td>2.69</td>
+<td>5,063,971</td>
+<td>4,401.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gold-fields-ltd-nyse">Gold Fields Ltd.</a></td>
+<td>GFI</td>
+<td>4.05</td>
+<td class=neg>-0.080</td>
+<td class=neg>-1.98%</td>
+<td>3.86</td>
+<td>3.99</td>
+<td>2.60</td>
+<td>4.70</td>
+<td>4,032,795</td>
+<td>4,319.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/b2gold-corporation-tsx">B2gold Corp.</a></td>
+<td>BTO.TO</td>
+<td>3.78</td>
+<td class=pos>0.100</td>
+<td class=pos>2.65%</td>
+<td>3.76</td>
+<td>3.92</td>
+<td>2.96</td>
+<td>4.64</td>
+<td>4,508,344</td>
+<td>3,792.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/yamana-gold-inc-tsx">Yamana Gold, Inc.</a></td>
+<td>YRI.TO</td>
+<td>3.93</td>
+<td class=neg>-0.010</td>
+<td class=neg>-0.25%</td>
+<td>3.87</td>
+<td>3.95</td>
+<td>2.84</td>
+<td>4.80</td>
+<td>2,295,449</td>
+<td>3,718.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/iamgold-corp-tsx">IAMGOLD Corp.</a></td>
+<td>IMG.TO</td>
+<td>7.32</td>
+<td class=pos>0.010</td>
+<td class=pos>0.14%</td>
+<td>7.27</td>
+<td>7.45</td>
+<td>4.54</td>
+<td>8.87</td>
+<td>972,487</td>
+<td>3,413.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/alamos-gold-inc-tsx">Alamos Gold Inc.</a></td>
+<td>AGI.TO</td>
+<td>8.18</td>
+<td class=pos>0.010</td>
+<td class=pos>0.12%</td>
+<td>8.12</td>
+<td>8.29</td>
+<td>7.53</td>
+<td>11.83</td>
+<td>273,050</td>
+<td>3,186.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/centamin-egypt-ltd-lse">Centamin Egypt Ltd.</a></td>
+<td>CEY.L</td>
+<td>158.30</td>
+<td class=neg>-0.250</td>
+<td class=neg>-0.16%</td>
+<td>155.08</td>
+<td>160.35</td>
+<td>130.60</td>
+<td>193.90</td>
+<td>2,079,949</td>
+<td>3,099.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/pretium-resources-inc-nyse">Pretium Resources Inc.</a></td>
+<td>PVG</td>
+<td>11.38</td>
+<td class=pos>0.030</td>
+<td class=pos>0.26%</td>
+<td>11.36</td>
+<td>11.55</td>
+<td>7.75</td>
+<td>12.53</td>
+<td>811,312</td>
+<td>2,640.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/detour-gold-corporation-tsx">Detour Gold Corp.</a></td>
+<td>DGC.TO</td>
+<td>14.45</td>
+<td class=pos>0.330</td>
+<td class=pos>2.28%</td>
+<td>14.47</td>
+<td>14.94</td>
+<td>12.50</td>
+<td>21.48</td>
+<td>905,475</td>
+<td>2,584.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/endeavour-mining-corporation-tsx">Endeavour Mining Corporation</a></td>
+<td>EDV.TO</td>
+<td>23.24</td>
+<td class=pos>0.780</td>
+<td class=pos>3.36%</td>
+<td>23.04</td>
+<td>24.42</td>
+<td>19.77</td>
+<td>27.83</td>
+<td>295,389</td>
+<td>2,583.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/new-gold-inc-tsx">New Gold, Inc.</a></td>
+<td>NGD.TO</td>
+<td>4.14</td>
+<td class=neg>-0.010</td>
+<td class=neg>-0.24%</td>
+<td>4.08</td>
+<td>4.17</td>
+<td>3.11</td>
+<td>5.79</td>
+<td>546,032</td>
+<td>2,386.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/regis-resources-limited-asx">Regis Resources Limited</a></td>
+<td>RRL.AX</td>
+<td>4.30</td>
+<td class=pos>0.080</td>
+<td class=pos>1.86%</td>
+<td>4.33</td>
+<td>4.42</td>
+<td>2.84</td>
+<td>4.42</td>
+<td>1,527,556</td>
+<td>2,166.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/oceanagold-corporation-tsx">OceanaGold Corp.</a></td>
+<td>OGC.TO</td>
+<td>3.31</td>
+<td class=neg>-0.080</td>
+<td class=neg>-2.42%</td>
+<td>3.23</td>
+<td>3.34</td>
+<td>2.92</td>
+<td>5.00</td>
+<td>1,236,657</td>
+<td>1,986.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/st-barbara-ltd-asx">ST Barbara Ltd.</a></td>
+<td>SBM.AX</td>
+<td>3.82</td>
+<td class=pos>0.030</td>
+<td class=pos>0.79%</td>
+<td>3.81</td>
+<td>3.88</td>
+<td>1.94</td>
+<td>3.95</td>
+<td>1,613,092</td>
+<td>1,947.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/centerra-gold-inc-tsx">Centerra Gold Inc.</a></td>
+<td>CG.TO</td>
+<td>6.32</td>
+<td class=pos>0.120</td>
+<td class=pos>1.90%</td>
+<td>6.35</td>
+<td>6.55</td>
+<td>6.02</td>
+<td>9.35</td>
+<td>910,509</td>
+<td>1,879.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/novagold-resources-inc-tsx">NovaGold Resources Inc.</a></td>
+<td>NG.TO</td>
+<td>5.02</td>
+<td class=neg>-0.080</td>
+<td class=neg>-1.59%</td>
+<td>4.92</td>
+<td>5.05</td>
+<td>4.33</td>
+<td>8.15</td>
+<td>124,894</td>
+<td>1,589.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/eldorado-gold-corp-tsx">Eldorado Gold Corp.</a></td>
+<td>ELD.TO</td>
+<td>1.81</td>
+<td class=pos>0.010</td>
+<td class=pos>0.55%</td>
+<td>1.77</td>
+<td>1.85</td>
+<td>1.39</td>
+<td>5.13</td>
+<td>1,866,917</td>
+<td>1,442.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/saracen-mineral-holdings-limited-asx">Saracen Mineral Holdings Limited</a></td>
+<td>SAR.AX</td>
+<td>1.69</td>
+<td class=pos>0.045</td>
+<td class=pos>2.66%</td>
+<td>1.71</td>
+<td>1.74</td>
+<td>0.87</td>
+<td>1.77</td>
+<td>2,110,668</td>
+<td>1,383.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/semafo-inc-tsx">Semafo, Inc.</a></td>
+<td>SMF.TO</td>
+<td>3.52</td>
+<td class=pos>0.050</td>
+<td class=pos>1.42%</td>
+<td>3.50</td>
+<td>3.58</td>
+<td>2.68</td>
+<td>5.24</td>
+<td>640,367</td>
+<td>1,160.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/armistice-resources-corp-tsx">Armistice Resources Corp.</a></td>
+<td>AZ.TO</td>
+<td>3.44</td>
+<td class=pos>0.020</td>
+<td class=pos>0.58%</td>
+<td>3.39</td>
+<td>3.46</td>
+<td>1.70</td>
+<td>3.68</td>
+<td>184,298</td>
+<td>1,080.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/harmony-gold-mining-ltd-nyse">Harmony Gold Mining Ltd.</a></td>
+<td>HMY</td>
+<td>1.86</td>
+<td class=pos>0.220</td>
+<td class=pos>11.83%</td>
+<td>1.92</td>
+<td>2.09</td>
+<td>1.56</td>
+<td>2.99</td>
+<td>11,905,190</td>
+<td>1,051.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mcewen-mining-inc-nyse">McEwen Mining Inc.</a></td>
+<td>MUX</td>
+<td>2.19</td>
+<td class=pos>0.175</td>
+<td class=pos>7.99%</td>
+<td>2.18</td>
+<td>2.38</td>
+<td>1.82</td>
+<td>4.27</td>
+<td>3,566,316</td>
+<td>998.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/torex-gold-resources-inc-tsx">Torex Gold Resources Inc</a></td>
+<td>TXG.TO</td>
+<td>11.39</td>
+<td class=pos>0.540</td>
+<td class=pos>4.74%</td>
+<td>11.46</td>
+<td>12.16</td>
+<td>11.25</td>
+<td>33.85</td>
+<td>312,415</td>
+<td>952.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/china-gold-international-resources-corp-ltd-tsx">China Gold Intl. Resources</a></td>
+<td>CGG.TO</td>
+<td>2.19</td>
+<td class=pos>0.160</td>
+<td class=pos>7.31%</td>
+<td>2.21</td>
+<td>2.35</td>
+<td>1.82</td>
+<td>3.40</td>
+<td>374,911</td>
+<td>931.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/nevsun-resources-ltd-tsx">Nevsun Resources Ltd.</a></td>
+<td>NSU.TO</td>
+<td>3.08</td>
+<td class=neg>-0.020</td>
+<td class=neg>-0.65%</td>
+<td>3.04</td>
+<td>3.11</td>
+<td>2.49</td>
+<td>4.63</td>
+<td>223,694</td>
+<td>924.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/guyana-goldfields-inc-tsx">Guyana Goldfields Inc.</a></td>
+<td>GUY.TO</td>
+<td>5.22</td>
+<td class=neg>-0.140</td>
+<td class=neg>-2.68%</td>
+<td>5.05</td>
+<td>5.19</td>
+<td>3.96</td>
+<td>8.11</td>
+<td>330,369</td>
+<td>879.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/resolute-mining-ltd-asx">Resolute Mining Ltd.</a></td>
+<td>RSG.AX</td>
+<td>1.14</td>
+<td class=pos>0.028</td>
+<td class=pos>2.41%</td>
+<td>1.15</td>
+<td>1.18</td>
+<td>0.95</td>
+<td>1.91</td>
+<td>4,547,015</td>
+<td>849.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/seabridge-gold-inc-tsx">Seabridge Gold, Inc.</a></td>
+<td>SEA.TO</td>
+<td>14.39</td>
+<td class=neg>-0.120</td>
+<td class=neg>-0.83%</td>
+<td>14.14</td>
+<td>14.50</td>
+<td>11.03</td>
+<td>17.65</td>
+<td>27,472</td>
+<td>820.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/richmont-mines-inc-amex">Richmont Mines Inc.</a></td>
+<td>RIC</td>
+<td>9.60</td>
+<td class=pos>0.250</td>
+<td class=pos>2.67%</td>
+<td>9.35</td>
+<td>9.75</td>
+<td>5.45</td>
+<td>10.45</td>
+<td>868,236</td>
+<td>783.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/premier-gold-mines-limited-tsx">Premier Gold Mines Limited</a></td>
+<td>PG.TO</td>
+<td>3.64</td>
+<td class=neg>-0.040</td>
+<td class=neg>-1.10%</td>
+<td>3.58</td>
+<td>3.70</td>
+<td>2.17</td>
+<td>4.13</td>
+<td>222,877</td>
+<td>728.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/osisko-mining-corporation-tsx">Osisko Mining Corp.</a></td>
+<td>OSK.TO</td>
+<td>3.36</td>
+<td class=pos>0.030</td>
+<td class=pos>0.89%</td>
+<td>3.33</td>
+<td>3.42</td>
+<td>2.41</td>
+<td>5.65</td>
+<td>138,594</td>
+<td>703.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/alacer-gold-corp-otcpk">Alacer Gold Corp.</a></td>
+<td>ALIAF</td>
+<td>1.80</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>2.37</td>
+<td>0</td>
+<td>642.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/continental-gold-limited-tsx">Continental Gold Limited</a></td>
+<td>CNL.TO</td>
+<td>3.43</td>
+<td class=neg>-0.050</td>
+<td class=neg>-1.46%</td>
+<td>3.35</td>
+<td>3.45</td>
+<td>2.62</td>
+<td>5.75</td>
+<td>141,175</td>
+<td>636.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gold-road-resources-limited-asx">Gold Road Resources Limited</a></td>
+<td>GOR.AX</td>
+<td>0.72</td>
+<td class=neg>-0.015</td>
+<td class=neg>-2.10%</td>
+<td>0.70</td>
+<td>0.72</td>
+<td>0.51</td>
+<td>0.75</td>
+<td>216,547</td>
+<td>603.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/sabina-gold-silver-corp-tsx">Sabina Gold &amp; Silver Corp.</a></td>
+<td>SBB.TO</td>
+<td>2.24</td>
+<td class=pos>0.030</td>
+<td class=pos>1.34%</td>
+<td>2.24</td>
+<td>2.30</td>
+<td>1.22</td>
+<td>2.70</td>
+<td>181,535</td>
+<td>514.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/petropavlovsk-plc-lse">Petropavlovsk PLC</a></td>
+<td>POG.L</td>
+<td>7.75</td>
+<td class=pos>0.029</td>
+<td class=pos>0.37%</td>
+<td>7.71</td>
+<td>7.84</td>
+<td>5.74</td>
+<td>9.00</td>
+<td>325,506</td>
+<td>438.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/dalradian-resources-inc-tsx">Dalradian Resources Inc.</a></td>
+<td>DNA.TO</td>
+<td>1.47</td>
+<td class=neg>-0.020</td>
+<td class=neg>-1.36%</td>
+<td>1.43</td>
+<td>1.47</td>
+<td>1.08</td>
+<td>1.78</td>
+<td>53,470</td>
+<td>437.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/golden-star-resources-ltd-amex">Golden Star Resources, Ltd.</a></td>
+<td>GSS</td>
+<td>0.89</td>
+<td class=pos>0.004</td>
+<td class=pos>0.51%</td>
+<td>0.86</td>
+<td>0.90</td>
+<td>0.59</td>
+<td>1.01</td>
+<td>1,003,334</td>
+<td>429.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/pan-african-resources-plc-aim">Pan African Resources PLC</a></td>
+<td>PAF.L</td>
+<td>13.25</td>
+<td class=pos>0.703</td>
+<td class=pos>5.31%</td>
+<td>13.24</td>
+<td>14.22</td>
+<td>12.25</td>
+<td>18.25</td>
+<td>537,960</td>
+<td>427.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/argonaut-gold-inc-tsx">Argonaut Gold Inc.</a></td>
+<td>AR.TO</td>
+<td>2.51</td>
+<td class=neg>-0.110</td>
+<td class=neg>-4.38%</td>
+<td>2.35</td>
+<td>2.53</td>
+<td>1.76</td>
+<td>2.98</td>
+<td>731,857</td>
+<td>425.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/perseus-mining-ltd-asx">Perseus Mining Ltd.</a></td>
+<td>PRU.AX</td>
+<td>0.38</td>
+<td class=pos>0.010</td>
+<td class=pos>2.67%</td>
+<td>0.38</td>
+<td>0.39</td>
+<td>0.27</td>
+<td>0.43</td>
+<td>3,203,152</td>
+<td>390.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/tribune-resources-limited-asx">Tribune Resources Limited</a></td>
+<td>TBR.AX</td>
+<td>6.90</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>6.85</td>
+<td>6.90</td>
+<td>5.15</td>
+<td>8.50</td>
+<td>3,990</td>
+<td>339.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gold-resource-corp-amex">Gold Resource Corp.</a></td>
+<td>GORO</td>
+<td>4.35</td>
+<td class=pos>0.270</td>
+<td class=pos>6.21%</td>
+<td>4.30</td>
+<td>4.66</td>
+<td>3.08</td>
+<td>6.27</td>
+<td>409,356</td>
+<td>328.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/barkerville-gold-mines-ltd-tsxv">Barkerville Gold Mines Ltd.</a></td>
+<td>BGM.V</td>
+<td>0.75</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.73</td>
+<td>0.75</td>
+<td>0.41</td>
+<td>1.39</td>
+<td>101,950</td>
+<td>326.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/lydian-international-limited-tsx">Lydian International Limited</a></td>
+<td>LYD.TO</td>
+<td>0.45</td>
+<td class=pos>0.015</td>
+<td class=pos>3.37%</td>
+<td>0.45</td>
+<td>0.47</td>
+<td>0.31</td>
+<td>0.63</td>
+<td>269,800</td>
+<td>322.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/teranga-gold-corporation-tsx">Teranga Gold Corp.</a></td>
+<td>TGZ.TO</td>
+<td>3.00</td>
+<td class=neg>-0.010</td>
+<td class=neg>-0.33%</td>
+<td>2.95</td>
+<td>3.02</td>
+<td>2.36</td>
+<td>5.25</td>
+<td>82,020</td>
+<td>321.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/phillips-river-mining-limited-asx">Phillips River Mining Limited</a></td>
+<td>PRH.AX</td>
+<td>0.13</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.13</td>
+<td>0.13</td>
+<td>0</td>
+<td>307.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/wesdome-gold-mines-ltd-tsx">Wesdome Gold Mines Ltd.</a></td>
+<td>WDO.TO</td>
+<td>2.13</td>
+<td class=neg>-0.020</td>
+<td class=neg>-0.94%</td>
+<td>2.11</td>
+<td>2.24</td>
+<td>1.64</td>
+<td>4.40</td>
+<td>314,845</td>
+<td>282.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/harte-gold-corp-tsx">Harte Gold Corp.</a></td>
+<td>HRT.TO</td>
+<td>0.48</td>
+<td class=neg>-0.005</td>
+<td class=neg>-1.05%</td>
+<td>0.45</td>
+<td>0.49</td>
+<td>0.29</td>
+<td>0.87</td>
+<td>424,633</td>
+<td>234.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/west-african-resources-ltd-asx">West African Resources, Ltd.</a></td>
+<td>WAF.AX</td>
+<td>0.40</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.40</td>
+<td>0.40</td>
+<td>0.18</td>
+<td>0.45</td>
+<td>40,107</td>
+<td>227.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/victoria-gold-corp-tsxv">Victoria Gold Corp.</a></td>
+<td>VIT.V</td>
+<td>0.43</td>
+<td class=pos>0.010</td>
+<td class=pos>2.35%</td>
+<td>0.42</td>
+<td>0.44</td>
+<td>0.40</td>
+<td>0.74</td>
+<td>608,863</td>
+<td>224.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ascot-resources-ltd-tsxv">Ascot Resources Ltd.</a></td>
+<td>AOT.V</td>
+<td>1.60</td>
+<td class=neg>-0.080</td>
+<td class=neg>-5.00%</td>
+<td>1.51</td>
+<td>1.58</td>
+<td>1.29</td>
+<td>2.10</td>
+<td>17,400</td>
+<td>224.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ngex-resources-inc-tsx">NGEx Resources Inc.</a></td>
+<td>NGQ.TO</td>
+<td>1.04</td>
+<td class=pos>0.010</td>
+<td class=pos>0.96%</td>
+<td>1.04</td>
+<td>1.07</td>
+<td>0.75</td>
+<td>1.45</td>
+<td>28,909</td>
+<td>224.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/beadell-resources-ltd-asx">Beadell Resources Ltd</a></td>
+<td>BDR.AX</td>
+<td>0.18</td>
+<td class=neg>-0.010</td>
+<td class=neg>-5.56%</td>
+<td>0.17</td>
+<td>0.18</td>
+<td>0.15</td>
+<td>0.39</td>
+<td>2,499,180</td>
+<td>205.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hummingbird-resources-plc-aim">Hummingbird Resources PLC</a></td>
+<td>HUM.L</td>
+<td>34.25</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>34.00</td>
+<td>34.50</td>
+<td>18.25</td>
+<td>40.00</td>
+<td>285,161</td>
+<td>200.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ramelius-resources-ltd-asx">Ramelius Resources Ltd.</a></td>
+<td>RMS.AX</td>
+<td>0.40</td>
+<td class=neg>-0.015</td>
+<td class=neg>-3.75%</td>
+<td>0.39</td>
+<td>0.40</td>
+<td>0.32</td>
+<td>0.75</td>
+<td>781,717</td>
+<td>198.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hastings-rare-metals-ltd-asx">Hastings Rare Metals Ltd</a></td>
+<td>HAS.AX</td>
+<td>0.30</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.30</td>
+<td>0.30</td>
+<td>0.08</td>
+<td>0.38</td>
+<td>377,561</td>
+<td>195.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/silver-lake-resources-limited-asx">Silver Lake Resources Limited</a></td>
+<td>SLR.AX</td>
+<td>0.38</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.37</td>
+<td>0.38</td>
+<td>0.32</td>
+<td>0.80</td>
+<td>725,197</td>
+<td>187.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/belo-sun-mining-corp-tsx">Belo Sun Mining Corp</a></td>
+<td>BSX.TO</td>
+<td>0.39</td>
+<td class=pos>0.005</td>
+<td class=pos>1.28%</td>
+<td>0.39</td>
+<td>0.40</td>
+<td>0.29</td>
+<td>1.14</td>
+<td>245,540</td>
+<td>183.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/alkane-resources-limited-asx">Alkane Resources Limited</a></td>
+<td>ALK.AX</td>
+<td>0.30</td>
+<td class=neg>-0.010</td>
+<td class=neg>-3.33%</td>
+<td>0.29</td>
+<td>0.31</td>
+<td>0.22</td>
+<td>0.41</td>
+<td>390,956</td>
+<td>183.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gascoyne-resources-limited-asx">Gascoyne Resources Limited</a></td>
+<td>GCY.AX</td>
+<td>0.42</td>
+<td class=pos>0.005</td>
+<td class=pos>1.19%</td>
+<td>0.42</td>
+<td>0.43</td>
+<td>0.39</td>
+<td>0.66</td>
+<td>660,874</td>
+<td>181.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/corvus-gold-inc-tsx">Corvus Gold Inc.</a></td>
+<td>KOR.TO</td>
+<td>1.56</td>
+<td class=pos>0.090</td>
+<td class=pos>5.77%</td>
+<td>1.60</td>
+<td>1.68</td>
+<td>0.55</td>
+<td>1.77</td>
+<td>21,600</td>
+<td>172.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/marathon-gold-corp-tsx">Marathon Gold Corp.</a></td>
+<td>MOZ.TO</td>
+<td>1.18</td>
+<td class=neg>-0.030</td>
+<td class=neg>-2.54%</td>
+<td>1.13</td>
+<td>1.19</td>
+<td>0.53</td>
+<td>1.36</td>
+<td>203,764</td>
+<td>166.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/echo-resources-limited-asx">Echo Resources Limited</a></td>
+<td>EAR.AX</td>
+<td>0.34</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.33</td>
+<td>0.35</td>
+<td>0.10</td>
+<td>0.41</td>
+<td>241,477</td>
+<td>162.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gabriel-resources-ltd-tsx">Gabriel Resources Ltd.</a></td>
+<td>GBU.TO</td>
+<td>0.39</td>
+<td class=pos>0.030</td>
+<td class=pos>7.69%</td>
+<td>0.41</td>
+<td>0.43</td>
+<td>0.26</td>
+<td>0.59</td>
+<td>201,553</td>
+<td>161.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/auracle-resources-ltd-tsxv">Auracle Resources Ltd</a></td>
+<td>AAL.V</td>
+<td>1.14</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>1.14</td>
+<td>1.17</td>
+<td>0.36</td>
+<td>1.42</td>
+<td>118,584</td>
+<td>158.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/heron-resources-ltd-asx">Heron Resources Ltd.</a></td>
+<td>HRR.AX</td>
+<td>0.66</td>
+<td class=neg>-0.010</td>
+<td class=neg>-1.52%</td>
+<td>0.64</td>
+<td>0.66</td>
+<td>0.63</td>
+<td>1.35</td>
+<td>35,607</td>
+<td>154.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/probe-mines-limited-tsxv">Probe Mines Limited</a></td>
+<td>PRB.V</td>
+<td>1.40</td>
+<td class=pos>0.100</td>
+<td class=pos>7.14%</td>
+<td>1.34</td>
+<td>1.50</td>
+<td>1.25</td>
+<td>1.74</td>
+<td>47,475</td>
+<td>140.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/talga-gold-limited-asx">Talga Gold Limited</a></td>
+<td>TLG.AX</td>
+<td>0.71</td>
+<td class=neg>-0.020</td>
+<td class=neg>-2.84%</td>
+<td>0.67</td>
+<td>0.73</td>
+<td>0.35</td>
+<td>0.92</td>
+<td>898,547</td>
+<td>137.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/romarco-minerals-inc-tsx">Romarco Minerals Inc.</a></td>
+<td>R.TO</td>
+<td>0.32</td>
+<td class=pos>0.010</td>
+<td class=pos>3.13%</td>
+<td>0.31</td>
+<td>0.33</td>
+<td>0.23</td>
+<td>0.88</td>
+<td>1,394,300</td>
+<td>128.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rye-patch-gold-corp-tsxv">Rye Patch Gold Corp.</a></td>
+<td>RPM.V</td>
+<td>0.27</td>
+<td class=pos>0.015</td>
+<td class=pos>5.56%</td>
+<td>0.27</td>
+<td>0.30</td>
+<td>0.18</td>
+<td>0.37</td>
+<td>1,604,951</td>
+<td>121.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/aurizon-mines-ltd-tsx">Aurizon Mines Ltd.</a></td>
+<td>ARZ.TO</td>
+<td>1.81</td>
+<td class=neg>-0.020</td>
+<td class=neg>-1.11%</td>
+<td>1.79</td>
+<td>1.86</td>
+<td>1.20</td>
+<td>6.34</td>
+<td>7,953</td>
+<td>119.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/jaguar-mining-inc-tsx">Jaguar Mining Inc.</a></td>
+<td>JAG.TO</td>
+<td>0.34</td>
+<td class=pos>0.010</td>
+<td class=pos>2.99%</td>
+<td>0.33</td>
+<td>0.35</td>
+<td>0.22</td>
+<td>0.75</td>
+<td>237,879</td>
+<td>112.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/midas-gold-corp-tsx">Midas Gold Corp.</a></td>
+<td>MAX.TO</td>
+<td>0.60</td>
+<td class=neg>-0.010</td>
+<td class=neg>-1.67%</td>
+<td>0.58</td>
+<td>0.60</td>
+<td>0.55</td>
+<td>0.95</td>
+<td>84,944</td>
+<td>110.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/bonterra-resources-inc-tsxv">BonTerra Resources Inc.</a></td>
+<td>BTR.V</td>
+<td>0.56</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.54</td>
+<td>0.57</td>
+<td>0.24</td>
+<td>0.72</td>
+<td>229,459</td>
+<td>107.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/tng-limited-asx">TNG Limited</a></td>
+<td>TNG.AX</td>
+<td>0.14</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.14</td>
+<td>0.14</td>
+<td>0.11</td>
+<td>0.19</td>
+<td>166,664</td>
+<td>106.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/peninsula-energy-limited-asx">Peninsula Energy Limited</a></td>
+<td>PEN.AX</td>
+<td>0.43</td>
+<td class=pos>0.035</td>
+<td class=pos>8.24%</td>
+<td>0.43</td>
+<td>0.46</td>
+<td>0.27</td>
+<td>0.91</td>
+<td>336,051</td>
+<td>104.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/caledonia-mining-corporation-tsx">Caledonia Mining Corp.</a></td>
+<td>CAL.TO</td>
+<td>9.00</td>
+<td class=pos>0.250</td>
+<td class=pos>2.78%</td>
+<td>9.10</td>
+<td>9.25</td>
+<td>0.07</td>
+<td>9.25</td>
+<td>3,405</td>
+<td>98.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/greenland-minerals-and-energy-limited-asx">Greenland Minerals & Energy</a></td>
+<td>GGG.AX</td>
+<td>0.09</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.08</td>
+<td>0.20</td>
+<td>797,190</td>
+<td>97.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/nuenergy-capital-limited-asx">NuEnergy Capital Limited</a></td>
+<td>NGY.AX</td>
+<td>0.06</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.02</td>
+<td>0.07</td>
+<td>200,000</td>
+<td>91.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/kingsgate-consolidated-limited-asx">Kingsgate Consolidated Limited</a></td>
+<td>KCN.AX</td>
+<td>0.40</td>
+<td class=pos>0.015</td>
+<td class=pos>3.75%</td>
+<td>0.40</td>
+<td>0.42</td>
+<td>0.19</td>
+<td>0.54</td>
+<td>1,138,335</td>
+<td>91.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/international-tower-hill-mines-ltd-tsx">International Tower Hill Mines Ltd.</a></td>
+<td>ITH.TO</td>
+<td>0.57</td>
+<td class=neg>-0.010</td>
+<td class=neg>-1.75%</td>
+<td>0.54</td>
+<td>0.57</td>
+<td>0.38</td>
+<td>1.01</td>
+<td>24,800</td>
+<td>91.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/lions-gate-energy-inc-tsxv">Lions Gate Energy Inc.</a></td>
+<td>LG.V</td>
+<td>0.29</td>
+<td class=neg>-0.010</td>
+<td class=neg>-3.45%</td>
+<td>0.27</td>
+<td>0.29</td>
+<td>0.02</td>
+<td>1.03</td>
+<td>1,567,749</td>
+<td>90.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/medusa-mining-limited-asx">Medusa Mining Limited</a></td>
+<td>MML.AX</td>
+<td>0.44</td>
+<td class=pos>0.005</td>
+<td class=pos>1.15%</td>
+<td>0.42</td>
+<td>0.44</td>
+<td>0.27</td>
+<td>0.57</td>
+<td>191,415</td>
+<td>89.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United States of America.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/vista-gold-corp-amex">Vista Gold Corp.</a></td>
+<td>VGZ</td>
+<td>0.72</td>
+<td class=neg>-0.015</td>
+<td class=neg>-2.10%</td>
+<td>0.68</td>
+<td>0.73</td>
+<td>0.60</td>
+<td>1.24</td>
+<td>344,374</td>
+<td>87.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rupert-resources-ltd-tsxv">Rupert Resources Ltd.</a></td>
+<td>RUP.V</td>
+<td>0.83</td>
+<td class=pos>0.020</td>
+<td class=pos>2.41%</td>
+<td>0.85</td>
+<td>0.90</td>
+<td>0.68</td>
+<td>1.38</td>
+<td>40,342</td>
+<td>85.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rubicon-minerals-corporation-tsx">Rubicon Minerals Corp.</a></td>
+<td>RMX.TO</td>
+<td>1.44</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>1.41</td>
+<td>1.47</td>
+<td>1.27</td>
+<td>2.39</td>
+<td>6,898</td>
+<td>84.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/queensland-bauxite-limited-asx">Queensland Bauxite Limited</a></td>
+<td>QBL.AX</td>
+<td>0.06</td>
+<td class=neg>-0.003</td>
+<td class=neg>-5.09%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.01</td>
+<td>0.10</td>
+<td>12,566,837</td>
+<td>83.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/trans-siberian-gold-plc-aim">Trans-Siberian Gold plc</a></td>
+<td>TSG.L</td>
+<td>44.50</td>
+<td class=neg>-0.500</td>
+<td class=neg>-1.12%</td>
+<td>43.50</td>
+<td>45.00</td>
+<td>31.28</td>
+<td>50.55</td>
+<td>11,411</td>
+<td>82.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/atac-resources-ltd-tsxv">ATAC Resources Ltd.</a></td>
+<td>ATC.V</td>
+<td>0.57</td>
+<td class=pos>0.010</td>
+<td class=pos>1.75%</td>
+<td>0.58</td>
+<td>0.60</td>
+<td>0.35</td>
+<td>0.89</td>
+<td>132,800</td>
+<td>81.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/goldquest-mining-corp-tsxv">Goldquest Mining Corp.</a></td>
+<td>GQC.V</td>
+<td>0.29</td>
+<td class=pos>0.025</td>
+<td class=pos>8.62%</td>
+<td>0.29</td>
+<td>0.34</td>
+<td>0.27</td>
+<td>0.59</td>
+<td>187,110</td>
+<td>80.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/kentor-gold-limited-asx">Kentor Gold Limited</a></td>
+<td>KGL.AX</td>
+<td>0.35</td>
+<td class=pos>0.010</td>
+<td class=pos>2.86%</td>
+<td>0.35</td>
+<td>0.36</td>
+<td>0.24</td>
+<td>0.44</td>
+<td>153,129</td>
+<td>80.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/treasury-metals-inc-tsx">Treasury Metals Inc.</a></td>
+<td>TML.TO</td>
+<td>0.59</td>
+<td class=pos>0.030</td>
+<td class=pos>5.09%</td>
+<td>0.62</td>
+<td>0.65</td>
+<td>0.50</td>
+<td>0.90</td>
+<td>107,963</td>
+<td>76.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/image-resources-nl-asx">Image Resources NL</a></td>
+<td>IMA.AX</td>
+<td>0.13</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.13</td>
+<td>0.13</td>
+<td>0.04</td>
+<td>0.17</td>
+<td>46,571</td>
+<td>75.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/doray-minerals-limited-asx">Doray Minerals Limited</a></td>
+<td>DRM.AX</td>
+<td>0.20</td>
+<td class=pos>0.010</td>
+<td class=pos>5.00%</td>
+<td>0.20</td>
+<td>0.21</td>
+<td>0.16</td>
+<td>0.49</td>
+<td>1,410,671</td>
+<td>73.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mawson-resources-ltd-tsx">Mawson Resources Ltd.</a></td>
+<td>MAW.TO</td>
+<td>0.57</td>
+<td class=pos>0.010</td>
+<td class=pos>1.75%</td>
+<td>0.57</td>
+<td>0.59</td>
+<td>0.29</td>
+<td>0.65</td>
+<td>71,765</td>
+<td>71.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/red-5-ltd-asx">Red 5 Ltd.</a></td>
+<td>RED.AX</td>
+<td>0.06</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.03</td>
+<td>0.09</td>
+<td>118,663</td>
+<td>70.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/metanor-resources-inc-tsxv">Metanor Resources Inc.</a></td>
+<td>MTO.V</td>
+<td>0.66</td>
+<td class=pos>0.040</td>
+<td class=pos>6.06%</td>
+<td>0.68</td>
+<td>0.70</td>
+<td>0.50</td>
+<td>1.29</td>
+<td>4,369</td>
+<td>70.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/triton-gold-limited-asx">Triton Gold Limited</a></td>
+<td>TON.AX</td>
+<td>0.09</td>
+<td class=pos>0.006</td>
+<td class=pos>7.06%</td>
+<td>0.09</td>
+<td>0.10</td>
+<td>0.04</td>
+<td>0.12</td>
+<td>5,096,770</td>
+<td>69.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/dgr-global-limited-asx">DGR Global Limited</a></td>
+<td>DGR.AX</td>
+<td>0.11</td>
+<td class=pos>0.005</td>
+<td class=pos>4.55%</td>
+<td>0.11</td>
+<td>0.12</td>
+<td>0.09</td>
+<td>0.16</td>
+<td>340,380</td>
+<td>69.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/dynacor-gold-mines-inc-tsx">Dynacor Gold Mines Inc.</a></td>
+<td>DNG.TO</td>
+<td>1.62</td>
+<td class=pos>0.040</td>
+<td class=pos>2.47%</td>
+<td>1.62</td>
+<td>1.71</td>
+<td>1.50</td>
+<td>2.75</td>
+<td>25,531</td>
+<td>64.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/lion-one-metals-limited-tsxv">Lion One Metals Limited</a></td>
+<td>LIO.V</td>
+<td>0.63</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.60</td>
+<td>0.64</td>
+<td>0.45</td>
+<td>0.93</td>
+<td>86,020</td>
+<td>64.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gme-resources-ltd-asx">GME Resources Ltd.</a></td>
+<td>GME.AX</td>
+<td>0.14</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.14</td>
+<td>0.14</td>
+<td>0.03</td>
+<td>0.19</td>
+<td>121,243</td>
+<td>63.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/legend-mining-ltd-asx">Legend Mining Ltd.</a></td>
+<td>LEG.AX</td>
+<td>0.03</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.03</td>
+<td>0.03</td>
+<td>0.01</td>
+<td>0.03</td>
+<td>1,345,418</td>
+<td>60.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/balmoral-resources-ltd-tsx">Balmoral Resources Ltd.</a></td>
+<td>BAR.TO</td>
+<td>0.45</td>
+<td class=neg>-0.015</td>
+<td class=neg>-3.33%</td>
+<td>0.43</td>
+<td>0.45</td>
+<td>0.42</td>
+<td>0.98</td>
+<td>174,455</td>
+<td>60.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/atacama-pacific-gold-corporation-tsxv">Atacama Pacific Gold Corp.</a></td>
+<td>ATM.V</td>
+<td>0.70</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.67</td>
+<td>0.70</td>
+<td>0.26</td>
+<td>0.83</td>
+<td>1,704</td>
+<td>58.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/orion-gold-nl-asx">Orion Gold NL</a></td>
+<td>ORN.AX</td>
+<td>0.05</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.02</td>
+<td>0.05</td>
+<td>349,316</td>
+<td>57.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/kingsrose-mining-limited-asx">Kingsrose Mining Limited</a></td>
+<td>KRM.AX</td>
+<td>0.08</td>
+<td class=pos>0.003</td>
+<td class=pos>3.90%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.07</td>
+<td>0.09</td>
+<td>911,440</td>
+<td>57.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/golden-arrow-resources-corp-tsxv">Golden Arrow Resources Corp.</a></td>
+<td>GRG.V</td>
+<td>0.56</td>
+<td class=pos>0.010</td>
+<td class=pos>1.79%</td>
+<td>0.56</td>
+<td>0.57</td>
+<td>0.37</td>
+<td>0.97</td>
+<td>16,600</td>
+<td>56.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/terrax-minerals-inc-tsxv">TerraX Minerals Inc.</a></td>
+<td>TXR.V</td>
+<td>0.51</td>
+<td class=pos>0.010</td>
+<td class=pos>1.96%</td>
+<td>0.51</td>
+<td>0.52</td>
+<td>0.38</td>
+<td>0.84</td>
+<td>103,553</td>
+<td>55.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mineral-commodities-ltd-asx">Mineral Commodities Ltd.</a></td>
+<td>MRC.AX</td>
+<td>0.15</td>
+<td class=neg>-0.015</td>
+<td class=neg>-10.00%</td>
+<td>0.14</td>
+<td>0.14</td>
+<td>0.09</td>
+<td>0.16</td>
+<td>107,835</td>
+<td>55.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/eastmain-resources-inc-tsx">Eastmain Resources Inc.</a></td>
+<td>ER.TO</td>
+<td>0.27</td>
+<td class=pos>0.015</td>
+<td class=pos>5.66%</td>
+<td>0.27</td>
+<td>0.28</td>
+<td>0.26</td>
+<td>0.61</td>
+<td>508,760</td>
+<td>55.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/focus-minerals-limited-asx">Focus Minerals Limited</a></td>
+<td>FML.AX</td>
+<td>0.32</td>
+<td class=neg>-0.010</td>
+<td class=neg>-3.13%</td>
+<td>0.31</td>
+<td>0.31</td>
+<td>0.31</td>
+<td>0.56</td>
+<td>24,629</td>
+<td>55.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gowest-gold-ltd-tsxv">Gowest Gold Ltd</a></td>
+<td>GWA.V</td>
+<td>0.16</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.16</td>
+<td>0.16</td>
+<td>0.13</td>
+<td>0.25</td>
+<td>96,935</td>
+<td>55.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/skeena-resources-ltd-tsxv">Skeena Resources Ltd.</a></td>
+<td>SKE.V</td>
+<td>0.69</td>
+<td class=pos>0.020</td>
+<td class=pos>2.90%</td>
+<td>0.68</td>
+<td>0.72</td>
+<td>0.40</td>
+<td>0.80</td>
+<td>28,710</td>
+<td>54.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/anaconda-mining-inc-tsx">Anaconda Mining Inc.</a></td>
+<td>ANX.TO</td>
+<td>0.12</td>
+<td class=pos>0.010</td>
+<td class=pos>8.70%</td>
+<td>0.12</td>
+<td>0.14</td>
+<td>0.06</td>
+<td>0.14</td>
+<td>2,337,729</td>
+<td>52.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/lexam-vg-gold-inc-tsx">Lexam VG Gold Inc.</a></td>
+<td>LEX.TO</td>
+<td>0.22</td>
+<td class=neg>0.000</td>
+<td class=neg>-2.22%</td>
+<td>0.22</td>
+<td>0.22</td>
+<td>0.16</td>
+<td>0.38</td>
+<td>18,000</td>
+<td>49.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/reunion-gold-corporation-tsxv">Reunion Gold Corp.</a></td>
+<td>RGD.V</td>
+<td>0.16</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.15</td>
+<td>0.16</td>
+<td>0.04</td>
+<td>0.17</td>
+<td>42,500</td>
+<td>49.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/robex-resources-inc-tsxv">Robex Resources Inc.</a></td>
+<td>RBX.V</td>
+<td>0.08</td>
+<td class=pos>0.005</td>
+<td class=pos>6.25%</td>
+<td>0.08</td>
+<td>0.09</td>
+<td>0.06</td>
+<td>0.14</td>
+<td>138,500</td>
+<td>49.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/tanami-gold-nl-asx">Tanami Gold NL</a></td>
+<td>TAM.AX</td>
+<td>0.04</td>
+<td class=pos>0.001</td>
+<td class=pos>2.44%</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.07</td>
+<td>714,282</td>
+<td>48.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/chalice-gold-mines-ltd-asx">Chalice Gold Mines Ltd.</a></td>
+<td>CHN.AX</td>
+<td>0.19</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.19</td>
+<td>0.19</td>
+<td>0.15</td>
+<td>0.26</td>
+<td>19,904</td>
+<td>47.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/golden-reign-resources-ltd-tsxv">Golden Reign Resources Ltd.</a></td>
+<td>GRR.V</td>
+<td>0.25</td>
+<td class=neg>-0.005</td>
+<td class=neg>-2.04%</td>
+<td>0.23</td>
+<td>0.25</td>
+<td>0.20</td>
+<td>0.37</td>
+<td>112,000</td>
+<td>46.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/goldstrike-resources-ltd-tsxv">Goldstrike Resources Ltd.</a></td>
+<td>GSR.V</td>
+<td>0.22</td>
+<td class=pos>0.015</td>
+<td class=pos>6.98%</td>
+<td>0.22</td>
+<td>0.23</td>
+<td>0.18</td>
+<td>0.43</td>
+<td>142,200</td>
+<td>43.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/troy-resources-nl-asx">Troy Resources NL</a></td>
+<td>TRY.AX</td>
+<td>0.10</td>
+<td class=neg>-0.002</td>
+<td class=neg>-2.04%</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>0.07</td>
+<td>0.21</td>
+<td>213,903</td>
+<td>43.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/tanzanian-royalty-exploration-corp-tsx">Tanzanian Royalty Exploration</a></td>
+<td>TNX.TO</td>
+<td>0.36</td>
+<td class=neg>-0.005</td>
+<td class=neg>-1.41%</td>
+<td>0.33</td>
+<td>0.37</td>
+<td>0.31</td>
+<td>0.83</td>
+<td>57,650</td>
+<td>42.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/talisman-mining-ltd-asx">Talisman Mining Ltd</a></td>
+<td>TLM.AX</td>
+<td>0.23</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.23</td>
+<td>0.23</td>
+<td>0.21</td>
+<td>0.43</td>
+<td>26,210</td>
+<td>42.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/intermin-resources-ltd-asx">Intermin Resources Ltd.</a></td>
+<td>IRC.AX</td>
+<td>0.19</td>
+<td class=pos>0.005</td>
+<td class=pos>2.70%</td>
+<td>0.19</td>
+<td>0.19</td>
+<td>0.09</td>
+<td>0.21</td>
+<td>219,039</td>
+<td>41.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/moneta-porcupine-mines-inc-tsx">Moneta Porcupine Mines Inc.</a></td>
+<td>ME.TO</td>
+<td>0.18</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.17</td>
+<td>0.18</td>
+<td>0.13</td>
+<td>0.27</td>
+<td>154,500</td>
+<td>41.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/majestic-gold-corp-tsxv">Majestic Gold Corp.</a></td>
+<td>MJS.V</td>
+<td>0.05</td>
+<td class=neg>-0.005</td>
+<td class=neg>-10.00%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.12</td>
+<td>1,080,000</td>
+<td>41.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gran-colombia-gold-corp-tsx">Gran Colombia Gold Corp.</a></td>
+<td>GCM.TO</td>
+<td>1.93</td>
+<td class=pos>0.030</td>
+<td class=pos>1.55%</td>
+<td>1.94</td>
+<td>1.98</td>
+<td>1.34</td>
+<td>2.23</td>
+<td>70,907</td>
+<td>40.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/de-grey-mining-ltd-asx">De Grey Mining Ltd.</a></td>
+<td>DEG.AX</td>
+<td>0.12</td>
+<td class=pos>0.005</td>
+<td class=pos>4.17%</td>
+<td>0.12</td>
+<td>0.13</td>
+<td>0.03</td>
+<td>0.38</td>
+<td>489,161</td>
+<td>40.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/alexandria-minerals-corporation-tsxv">Alexandria Minerals Corp.</a></td>
+<td>AZX.V</td>
+<td>0.08</td>
+<td class=pos>0.005</td>
+<td class=pos>6.25%</td>
+<td>0.08</td>
+<td>0.09</td>
+<td>0.05</td>
+<td>0.12</td>
+<td>253,040</td>
+<td>40.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ratel-group-ltd-tsx">Ratel Group Ltd.</a></td>
+<td>RTG.TO</td>
+<td>0.24</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.24</td>
+<td>0.24</td>
+<td>0.10</td>
+<td>0.55</td>
+<td>500</td>
+<td>40.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/canyon-resources-limited-asx">Canyon Resources Limited</a></td>
+<td>CAY.AX</td>
+<td>0.13</td>
+<td class=pos>0.005</td>
+<td class=pos>4.00%</td>
+<td>0.13</td>
+<td>0.14</td>
+<td>0.06</td>
+<td>0.18</td>
+<td>412,392</td>
+<td>40.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/kootenay-silver-inc-tsxv">Kootenay Silver Inc.</a></td>
+<td>KTN.V</td>
+<td>0.21</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.20</td>
+<td>0.22</td>
+<td>0.17</td>
+<td>0.39</td>
+<td>151,000</td>
+<td>39.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/macphersons-reward-gold-limited-asx">MacPhersons Reward Gold Limited</a></td>
+<td>MRP.AX</td>
+<td>0.12</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.12</td>
+<td>0.12</td>
+<td>0.08</td>
+<td>0.30</td>
+<td>488,837</td>
+<td>39.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/serabi-gold-plc-aim">Serabi Gold plc</a></td>
+<td>SRB.L</td>
+<td>3.25</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>3.13</td>
+<td>3.40</td>
+<td>3.00</td>
+<td>6.17</td>
+<td>3,545</td>
+<td>39.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/otis-gold-corp-tsxv">Otis Gold Corp.</a></td>
+<td>OOO.V</td>
+<td>0.24</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.22</td>
+<td>0.24</td>
+<td>0.17</td>
+<td>0.39</td>
+<td>257,900</td>
+<td>38.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/bearing-resources-ltd-tsxv">Bearing Resources Ltd.</a></td>
+<td>BRZ.V</td>
+<td>0.69</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.68</td>
+<td>0.69</td>
+<td>0.61</td>
+<td>1.83</td>
+<td>18,600</td>
+<td>38.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/abitex-resources-inc-tsxv">Abitex Resources Inc.</a></td>
+<td>ABE.V</td>
+<td>0.60</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.58</td>
+<td>0.60</td>
+<td>0.06</td>
+<td>0.79</td>
+<td>30,700</td>
+<td>37.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/cartier-resources-inc-tsxv">Cartier Resources Inc.</a></td>
+<td>ECR.V</td>
+<td>0.21</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.20</td>
+<td>0.22</td>
+<td>0.18</td>
+<td>0.38</td>
+<td>37,000</td>
+<td>37.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/nagambie-mining-limited-asx">Nagambie Mining Limited</a></td>
+<td>NAG.AX</td>
+<td>0.09</td>
+<td class=pos>0.002</td>
+<td class=pos>2.25%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.02</td>
+<td>0.12</td>
+<td>196,559</td>
+<td>36.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/tristar-gold-inc-tsxv">TriStar Gold, Inc.</a></td>
+<td>TSG.V</td>
+<td>0.24</td>
+<td class=neg>-0.005</td>
+<td class=neg>-2.13%</td>
+<td>0.23</td>
+<td>0.25</td>
+<td>0.18</td>
+<td>0.44</td>
+<td>9,775</td>
+<td>35.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/matsa-resources-limited-asx">Matsa Resources Limited</a></td>
+<td>MAT.AX</td>
+<td>0.21</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.21</td>
+<td>0.22</td>
+<td>0.14</td>
+<td>0.28</td>
+<td>33,689</td>
+<td>35.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/emmerson-resources-limited-asx">Emmerson Resources Limited</a></td>
+<td>ERM.AX</td>
+<td>0.08</td>
+<td class=pos>0.001</td>
+<td class=pos>1.21%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.14</td>
+<td>676,744</td>
+<td>33.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/riedel-resources-limited-asx">Riedel Resources Limited</a></td>
+<td>RIE.AX</td>
+<td>0.08</td>
+<td class=pos>0.001</td>
+<td class=pos>1.25%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.01</td>
+<td>0.11</td>
+<td>60,000</td>
+<td>33.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/orvana-minerals-corp-tsx">Orvana Minerals Corp.</a></td>
+<td>ORV.TO</td>
+<td>0.24</td>
+<td class=pos>0.005</td>
+<td class=pos>2.13%</td>
+<td>0.23</td>
+<td>0.25</td>
+<td>0.17</td>
+<td>0.33</td>
+<td>107,000</td>
+<td>32.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hunt-mining-corp-tsxv">Hunt Mining Corp</a></td>
+<td>HMX.V</td>
+<td>0.49</td>
+<td class=pos>0.020</td>
+<td class=pos>4.08%</td>
+<td>0.48</td>
+<td>0.51</td>
+<td>0.13</td>
+<td>0.51</td>
+<td>16,803</td>
+<td>32.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/greatland-gold-plc-aim">Greatland Gold plc</a></td>
+<td>GGP.L</td>
+<td>0.60</td>
+<td class=pos>0.020</td>
+<td class=pos>3.36%</td>
+<td>0.59</td>
+<td>0.64</td>
+<td>0.26</td>
+<td>2.57</td>
+<td>41,715,479</td>
+<td>32.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/beacon-minerals-limited-asx">Beacon Minerals Limited</a></td>
+<td>BCN.AX</td>
+<td>0.02</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.02</td>
+<td>0.02</td>
+<td>0.01</td>
+<td>0.03</td>
+<td>649,765</td>
+<td>32.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/spanish-mountain-gold-ltd-tsxv">Spanish Mountain Gold Ltd</a></td>
+<td>SPA.V</td>
+<td>0.13</td>
+<td class=pos>0.010</td>
+<td class=pos>8.00%</td>
+<td>0.13</td>
+<td>0.14</td>
+<td>0.08</td>
+<td>0.23</td>
+<td>277,000</td>
+<td>31.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/abm-resources-nl-asx">ABM Resources NL</a></td>
+<td>ABU.AX</td>
+<td>0.08</td>
+<td class=pos>0.005</td>
+<td class=pos>6.25%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.08</td>
+<td>0.16</td>
+<td>29,000</td>
+<td>31.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mill-city-gold-corp-tsxv">Mill City Gold Corp.</a></td>
+<td>MC.V</td>
+<td>0.66</td>
+<td class=pos>0.030</td>
+<td class=pos>4.55%</td>
+<td>0.67</td>
+<td>0.70</td>
+<td>0.62</td>
+<td>1.00</td>
+<td>144,000</td>
+<td>31.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/quantum-resources-ltd-asx">Quantum Resources Ltd.</a></td>
+<td>QUR.AX</td>
+<td>0.04</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.04</td>
+<td>0.05</td>
+<td>0.01</td>
+<td>0.05</td>
+<td>14,041,097</td>
+<td>30.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ariana-resources-plc-aim">Ariana Resources plc</a></td>
+<td>AAU.L</td>
+<td>1.55</td>
+<td class=pos>0.075</td>
+<td class=pos>4.84%</td>
+<td>1.54</td>
+<td>1.67</td>
+<td>1.15</td>
+<td>2.26</td>
+<td>5,746,948</td>
+<td>29.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/bassari-resources-ltd-asx">Bassari Resources Ltd</a></td>
+<td>BSR.AX</td>
+<td>0.01</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.03</td>
+<td>7,995,138</td>
+<td>27.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/strategic-minerals-corp-nl-asx">Strategic Minerals Corp. NL</a></td>
+<td>SMC.AX</td>
+<td>0.40</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.40</td>
+<td>0.40</td>
+<td>0.28</td>
+<td>0.41</td>
+<td>1,163,409</td>
+<td>27.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/aphrodite-gold-limited-asx">Aphrodite Gold Limited</a></td>
+<td>AQQ.AX</td>
+<td>0.04</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.01</td>
+<td>0.04</td>
+<td>2,118,540</td>
+<td>27.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/klondike-gold-corp-tsxv">Klondike Gold Corp.</a></td>
+<td>KG.V</td>
+<td>0.30</td>
+<td class=neg>-0.020</td>
+<td class=neg>-6.78%</td>
+<td>0.27</td>
+<td>0.30</td>
+<td>0.18</td>
+<td>0.60</td>
+<td>104,449</td>
+<td>26.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/amarillo-gold-corp-tsxv">Amarillo Gold Corp.</a></td>
+<td>AGC.V</td>
+<td>0.29</td>
+<td class=pos>0.025</td>
+<td class=pos>8.77%</td>
+<td>0.29</td>
+<td>0.42</td>
+<td>0.24</td>
+<td>0.45</td>
+<td>659,750</td>
+<td>26.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/argonaut-resources-nl-asx">Argonaut Resources NL</a></td>
+<td>ARE.AX</td>
+<td>0.02</td>
+<td class=neg>-0.002</td>
+<td class=neg>-8.70%</td>
+<td>0.02</td>
+<td>0.02</td>
+<td>0.01</td>
+<td>0.04</td>
+<td>446,441</td>
+<td>26.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hawthorn-resources-limited-asx">Hawthorn Resources Limited</a></td>
+<td>HAW.AX</td>
+<td>0.08</td>
+<td class=pos>0.007</td>
+<td class=pos>9.21%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.03</td>
+<td>0.12</td>
+<td>145,998</td>
+<td>26.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/anglo-australian-resources-nl-asx">Anglo Australian Resources NL</a></td>
+<td>AAR.AX</td>
+<td>0.09</td>
+<td class=pos>0.001</td>
+<td class=pos>1.18%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.02</td>
+<td>0.11</td>
+<td>282,345</td>
+<td>25.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rugby-mining-limited-tsxv">Rugby Mining Limited</a></td>
+<td>RUG.V</td>
+<td>0.35</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.35</td>
+<td>0.38</td>
+<td>0.23</td>
+<td>0.50</td>
+<td>9,500</td>
+<td>24.6</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/west-kirkland-mining-inc-tsxv">West Kirkland Mining Inc.</a></td>
+<td>WKM.V</td>
+<td>0.07</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.06</td>
+<td>0.11</td>
+<td>17,500</td>
+<td>24.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/sihayo-gold-limited-asx">Sihayo Gold Limited</a></td>
+<td>SIH.AX</td>
+<td>0.01</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.02</td>
+<td>1,971,696</td>
+<td>23.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/corex-gold-corp-tsxv">Corex Gold Corp.</a></td>
+<td>CGE.V</td>
+<td>0.15</td>
+<td class=pos>0.005</td>
+<td class=pos>3.45%</td>
+<td>0.15</td>
+<td>0.15</td>
+<td>0.10</td>
+<td>0.20</td>
+<td>95,500</td>
+<td>23.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/radisson-mining-resources-inc-tsxv">Radisson Mining Resources Inc.</a></td>
+<td>RDS.V</td>
+<td>0.18</td>
+<td class=pos>0.005</td>
+<td class=pos>2.78%</td>
+<td>0.18</td>
+<td>0.19</td>
+<td>0.12</td>
+<td>0.25</td>
+<td>137,050</td>
+<td>23.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/golden-queen-mining-co-ltd-tsx">Golden Queen Mining Co. Ltd.</a></td>
+<td>GQM.TO</td>
+<td>0.20</td>
+<td class=pos>0.005</td>
+<td class=pos>2.50%</td>
+<td>0.19</td>
+<td>0.21</td>
+<td>0.18</td>
+<td>1.09</td>
+<td>125,710</td>
+<td>22.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/arctic-star-exploration-corp-tsxv">Arctic Star Exploration Corp.</a></td>
+<td>ADD.V</td>
+<td>0.18</td>
+<td class=pos>0.055</td>
+<td class=pos>30.56%</td>
+<td>0.18</td>
+<td>0.24</td>
+<td>0.09</td>
+<td>0.38</td>
+<td>1,450,658</td>
+<td>22.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/west-high-yield-resources-ltd-tsxv">West High Yield Resources Ltd.</a></td>
+<td>WHY.V</td>
+<td>0.40</td>
+<td class=neg>-0.030</td>
+<td class=neg>-7.50%</td>
+<td>0.37</td>
+<td>0.37</td>
+<td>0.24</td>
+<td>3.80</td>
+<td>1,340</td>
+<td>22.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/barra-resources-ltd-asx">Barra Resources Ltd.</a></td>
+<td>BAR.AX</td>
+<td>0.05</td>
+<td class=pos>0.002</td>
+<td class=pos>4.44%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.04</td>
+<td>0.14</td>
+<td>170,631</td>
+<td>22.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/United Kingdom.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/goldplat-plc-aim">Goldplat PLC</a></td>
+<td>GDP.L</td>
+<td>7.75</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>7.67</td>
+<td>8.00</td>
+<td>5.00</td>
+<td>8.40</td>
+<td>200,000</td>
+<td>22.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/st-augustine-gold-and-copper-limited-tsx">St Augustine Gold & Copper Limited</a></td>
+<td>SAU.TO</td>
+<td>0.03</td>
+<td class=pos>0.005</td>
+<td class=pos>20.00%</td>
+<td>0.03</td>
+<td>0.03</td>
+<td>0.02</td>
+<td>0.06</td>
+<td>1,000</td>
+<td>21.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mineral-mountain-resources-ltd-tsxv">Mineral Mountain Resources Ltd.</a></td>
+<td>MMV.V</td>
+<td>0.36</td>
+<td class=neg>-0.010</td>
+<td class=neg>-2.82%</td>
+<td>0.34</td>
+<td>0.36</td>
+<td>0.15</td>
+<td>0.37</td>
+<td>117,900</td>
+<td>21.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rio-novo-gold-inc-tsx">Rio Novo Gold Inc.</a></td>
+<td>RN.TO</td>
+<td>0.13</td>
+<td class=neg>-0.005</td>
+<td class=neg>-4.00%</td>
+<td>0.12</td>
+<td>0.12</td>
+<td>0.08</td>
+<td>0.23</td>
+<td>10,500</td>
+<td>21.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/red-pine-exploration-inc-tsxv">Red Pine Exploration Inc.</a></td>
+<td>RPX.V</td>
+<td>0.07</td>
+<td class=pos>0.005</td>
+<td class=pos>7.14%</td>
+<td>0.07</td>
+<td>0.08</td>
+<td>0.07</td>
+<td>0.16</td>
+<td>470,100</td>
+<td>21.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hill-end-gold-ltd-asx">Hill End Gold Ltd.</a></td>
+<td>HEG.AX</td>
+<td>0.15</td>
+<td class=neg>-0.005</td>
+<td class=neg>-3.33%</td>
+<td>0.15</td>
+<td>0.15</td>
+<td>0.03</td>
+<td>0.23</td>
+<td>273,403</td>
+<td>21.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/gulf-industrials-limited-asx">Gulf Industrials Limited</a></td>
+<td>GLF.AX</td>
+<td>0.09</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.09</td>
+<td>0.11</td>
+<td>0.08</td>
+<td>0.21</td>
+<td>170,047</td>
+<td>20.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/monument-mining-limited-tsxv">Monument Mining Limited.</a></td>
+<td>MMY.V</td>
+<td>0.07</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.06</td>
+<td>0.13</td>
+<td>50,000</td>
+<td>20.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/crusader-resources-limited-asx">Crusader Resources Limited</a></td>
+<td>CAS.AX</td>
+<td>0.07</td>
+<td class=neg>-0.003</td>
+<td class=neg>-4.23%</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.14</td>
+<td>433,386</td>
+<td>20.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/angkor-gold-corp-tsxv">Angkor Gold Corp.</a></td>
+<td>ANK.V</td>
+<td>0.19</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.19</td>
+<td>0.20</td>
+<td>0.15</td>
+<td>0.39</td>
+<td>3,000</td>
+<td>20.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/lupaka-gold-corp-tsx">Lupaka Gold Corp.</a></td>
+<td>LPK.V</td>
+<td>0.15</td>
+<td class=pos>0.015</td>
+<td class=pos>10.00%</td>
+<td>0.15</td>
+<td>0.17</td>
+<td>0.11</td>
+<td>0.23</td>
+<td>85,000</td>
+<td>19.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/golden-west-resources-limited-asx">Golden West Resources Limited</a></td>
+<td>GWR.AX</td>
+<td>0.08</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.03</td>
+<td>0.12</td>
+<td>3,641</td>
+<td>19.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/orex-minerals-inc-tsxv">Orex Minerals Inc.</a></td>
+<td>REX.V</td>
+<td>0.16</td>
+<td class=pos>0.015</td>
+<td class=pos>9.68%</td>
+<td>0.16</td>
+<td>0.17</td>
+<td>0.10</td>
+<td>0.30</td>
+<td>174,643</td>
+<td>19.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/orion-metals-limited-asx">Orion Metals Limited</a></td>
+<td>ORM.AX</td>
+<td>0.05</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.01</td>
+<td>0.10</td>
+<td>3,701</td>
+<td>19.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/forsys-metals-corp-tsx">Forsys Metals Corp.</a></td>
+<td>FSY.TO</td>
+<td>0.13</td>
+<td class=neg>-0.005</td>
+<td class=neg>-4.00%</td>
+<td>0.12</td>
+<td>0.12</td>
+<td>0.11</td>
+<td>0.22</td>
+<td>100,700</td>
+<td>18.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/aberdeen-international-inc-tsx">Aberdeen International Inc.</a></td>
+<td>AAB.TO</td>
+<td>0.19</td>
+<td class=pos>0.005</td>
+<td class=pos>2.70%</td>
+<td>0.18</td>
+<td>0.19</td>
+<td>0.11</td>
+<td>0.21</td>
+<td>195,950</td>
+<td>18.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/intrepid-mines-limited-asx">Intrepid Mines Limited</a></td>
+<td>IAU.AX</td>
+<td>1.10</td>
+<td class=neg>-0.015</td>
+<td class=neg>-1.36%</td>
+<td>1.09</td>
+<td>1.10</td>
+<td>0.91</td>
+<td>1.25</td>
+<td>14,080</td>
+<td>18.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/african-gold-group-inc-tsxv">African Gold Group Inc.</a></td>
+<td>AGG.V</td>
+<td>0.04</td>
+<td class=pos>0.010</td>
+<td class=pos>25.00%</td>
+<td>0.04</td>
+<td>0.05</td>
+<td>0.04</td>
+<td>0.09</td>
+<td>639,200</td>
+<td>18.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/coral-gold-resources-ltd-tsxv">Coral Gold Resources Ltd.</a></td>
+<td>CLH.V</td>
+<td>0.38</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.38</td>
+<td>0.41</td>
+<td>0.28</td>
+<td>0.41</td>
+<td>329,600</td>
+<td>17.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/planet-exploration-inc-tsxv">Planet Exploration Inc.</a></td>
+<td>PXI.V</td>
+<td>0.20</td>
+<td class=neg>-0.005</td>
+<td class=neg>-2.50%</td>
+<td>0.18</td>
+<td>0.21</td>
+<td>0.03</td>
+<td>0.29</td>
+<td>369,300</td>
+<td>17.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/nevada-exploration-inc-tsxv">Nevada Exploration, Inc.</a></td>
+<td>NGE.V</td>
+<td>0.30</td>
+<td class=pos>0.015</td>
+<td class=pos>5.09%</td>
+<td>0.31</td>
+<td>0.31</td>
+<td>0.27</td>
+<td>0.46</td>
+<td>2,700</td>
+<td>17.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/fe-limited-asx">Fe Limited</a></td>
+<td>FEL.AX</td>
+<td>0.05</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.02</td>
+<td>0.08</td>
+<td>1,760,130</td>
+<td>17.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/dragon-mining-limited-asx">Dragon Mining Limited</a></td>
+<td>DRA.AX</td>
+<td>0.20</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.20</td>
+<td>0.20</td>
+<td>0.17</td>
+<td>0.38</td>
+<td>10,391</td>
+<td>17.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/oro-mining-ltd-tsxv">Oro Mining Ltd.</a></td>
+<td>OGR.V</td>
+<td>0.10</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>0</td>
+<td>17.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/antioquia-gold-inc-tsxv">Antioquia Gold, Inc.</a></td>
+<td>AGD.V</td>
+<td>0.05</td>
+<td class=pos>0.005</td>
+<td class=pos>10.00%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.05</td>
+<td>0.20</td>
+<td>48,000</td>
+<td>16.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/giyani-gold-corp-tsxv">Giyani Gold Corp</a></td>
+<td>WDG.V</td>
+<td>0.27</td>
+<td class=neg>-0.040</td>
+<td class=neg>-15.09%</td>
+<td>0.23</td>
+<td>0.26</td>
+<td>0.23</td>
+<td>0.50</td>
+<td>154,100</td>
+<td>16.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/banro-corporation-tsx">Banro Corp.</a></td>
+<td>BAA.TO</td>
+<td>0.15</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.15</td>
+<td>0.16</td>
+<td>0.10</td>
+<td>1.07</td>
+<td>1,461,783</td>
+<td>16.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/primero-mining-corp-tsx">Primero Mining Corp.</a></td>
+<td>P.TO</td>
+<td>0.09</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.08</td>
+<td>1.21</td>
+<td>679,020</td>
+<td>16.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/latrobe-magnesium-ltd-asx">Latrobe Magnesium Ltd.</a></td>
+<td>LMG.AX</td>
+<td>0.01</td>
+<td class=pos>0.001</td>
+<td class=pos>8.33%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.03</td>
+<td>419,608</td>
+<td>16.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/mediterranean-resources-ltd-tsx">Mediterranean Resources Ltd.</a></td>
+<td>MNR.TO</td>
+<td>0.21</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.20</td>
+<td>0.21</td>
+<td>0.20</td>
+<td>0.28</td>
+<td>31,698</td>
+<td>16.0</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/riverside-resources-inc-tsxv">Riverside Resources Inc.</a></td>
+<td>RRI.V</td>
+<td>0.30</td>
+<td class=pos>0.065</td>
+<td class=pos>22.03%</td>
+<td>0.29</td>
+<td>0.36</td>
+<td>0.26</td>
+<td>0.60</td>
+<td>87,820</td>
+<td>16.0</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/canarc-resource-corp-tsx">Canarc Resource Corp.</a></td>
+<td>CCM.TO</td>
+<td>0.07</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.07</td>
+<td>0.12</td>
+<td>45,000</td>
+<td>15.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/jupiter-energy-limited-asx">Jupiter Energy Limited</a></td>
+<td>JPR.AX</td>
+<td>0.10</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.10</td>
+<td>0.10</td>
+<td>0.07</td>
+<td>0.29</td>
+<td>20,000</td>
+<td>15.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/metals-australia-ltd-asx">Metals Australia Ltd.</a></td>
+<td>MLS.AX</td>
+<td>0.01</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.00</td>
+<td>0.02</td>
+<td>22,124,618</td>
+<td>14.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/carbine-resources-limited-asx">Carbine Resources Limited</a></td>
+<td>CRB.AX</td>
+<td>0.08</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.07</td>
+<td>0.14</td>
+<td>184,000</td>
+<td>14.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/sarama-resources-limited-tsxv">Sarama Resources Limited</a></td>
+<td>SWA.V</td>
+<td>0.10</td>
+<td class=pos>0.010</td>
+<td class=pos>10.53%</td>
+<td>0.10</td>
+<td>0.11</td>
+<td>0.08</td>
+<td>0.29</td>
+<td>204,300</td>
+<td>14.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/australia-oriental-minerals-nl-asx">Australia Oriental Minerals NL</a></td>
+<td>AOM.AX</td>
+<td>0.25</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.22</td>
+<td>0.26</td>
+<td>0.22</td>
+<td>0.26</td>
+<td>350,912</td>
+<td>14.6</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/azumah-resources-ltd-asx">Azumah Resources Ltd</a></td>
+<td>AZM.AX</td>
+<td>0.02</td>
+<td class=neg>-0.001</td>
+<td class=neg>-4.55%</td>
+<td>0.02</td>
+<td>0.02</td>
+<td>0.02</td>
+<td>0.04</td>
+<td>1,112,603</td>
+<td>14.4</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/helix-resources-ltd-asx">Helix Resources Ltd.</a></td>
+<td>HLX.AX</td>
+<td>0.03</td>
+<td class=pos>0.002</td>
+<td class=pos>5.88%</td>
+<td>0.03</td>
+<td>0.04</td>
+<td>0.02</td>
+<td>0.06</td>
+<td>1,408,544</td>
+<td>14.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/galantas-gold-corp-tsxv">Galantas Gold Corp.</a></td>
+<td>GAL.V</td>
+<td>0.08</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.08</td>
+<td>0.09</td>
+<td>0.07</td>
+<td>0.15</td>
+<td>43,000</td>
+<td>14.1</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/middle-island-resources-ltd-asx">Middle Island Resources Ltd.</a></td>
+<td>MDI.AX</td>
+<td>0.02</td>
+<td class=neg>-0.001</td>
+<td class=neg>-4.76%</td>
+<td>0.02</td>
+<td>0.02</td>
+<td>0.01</td>
+<td>0.03</td>
+<td>12,000</td>
+<td>13.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/canuc-resources-corporation-tsxv">Canuc Resources Corp.</a></td>
+<td>CDA.V</td>
+<td>0.30</td>
+<td class=neg>-0.005</td>
+<td class=neg>-1.70%</td>
+<td>0.27</td>
+<td>0.30</td>
+<td>0.21</td>
+<td>0.60</td>
+<td>30,400</td>
+<td>13.3</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/terraco-gold-corp-tsxv">Terraco Gold Corp.</a></td>
+<td>TEN.V</td>
+<td>0.09</td>
+<td class=pos>0.005</td>
+<td class=pos>5.88%</td>
+<td>0.09</td>
+<td>0.09</td>
+<td>0.08</td>
+<td>0.16</td>
+<td>65,000</td>
+<td>13.1</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/alliance-resources-ltd-asx">Alliance Resources Ltd.</a></td>
+<td>AGS.AX</td>
+<td>0.14</td>
+<td class=neg>-0.015</td>
+<td class=neg>-10.71%</td>
+<td>0.13</td>
+<td>0.15</td>
+<td>0.08</td>
+<td>0.18</td>
+<td>116,357</td>
+<td>12.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/northern-superior-resources-inc-tsxv">Northern Superior Resources Inc.</a></td>
+<td>SUP.V</td>
+<td>0.04</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.03</td>
+<td>0.08</td>
+<td>235,000</td>
+<td>12.8</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/viking-ashanti-limited-asx">Viking Ashanti Limited</a></td>
+<td>VKA.AX</td>
+<td>0.04</td>
+<td class=pos>0.001</td>
+<td class=pos>2.50%</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.01</td>
+<td>0.05</td>
+<td>197,000</td>
+<td>12.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/rhyolite-resources-ltd-tsxv">Rhyolite Resources Ltd.</a></td>
+<td>RYE.V</td>
+<td>0.29</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.29</td>
+<td>0.29</td>
+<td>0.17</td>
+<td>0.40</td>
+<td>500</td>
+<td>12.4</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/centaurus-metals-limited-asx">Centaurus Metals Limited</a></td>
+<td>CTM.AX</td>
+<td>0.01</td>
+<td class=pos>0.001</td>
+<td class=pos>16.67%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.00</td>
+<td>0.01</td>
+<td>10,505,706</td>
+<td>12.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/manas-resources-ltd-asx">Manas Resources Ltd.</a></td>
+<td>MSR.AX</td>
+<td>0.01</td>
+<td class=neg>-0.001</td>
+<td class=neg>-10.00%</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.00</td>
+<td>0.01</td>
+<td>2,000,000</td>
+<td>11.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/batero-gold-corp-tsxv">Batero Gold Corp.</a></td>
+<td>BAT.V</td>
+<td>0.10</td>
+<td class=pos>0.005</td>
+<td class=pos>5.26%</td>
+<td>0.10</td>
+<td>0.11</td>
+<td>0.08</td>
+<td>0.13</td>
+<td>459,420</td>
+<td>11.5</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/citigold-corporation-limited-asx">Citigold Corp. Limited</a></td>
+<td>CTO.AX</td>
+<td>0.01</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>0.01</td>
+<td>1,950,000</td>
+<td>11.3</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/midlands-minerals-corporation-tsxv">Midlands Minerals Corp.</a></td>
+<td>MEX.V</td>
+<td>0.27</td>
+<td class=pos>0.015</td>
+<td class=pos>5.56%</td>
+<td>0.28</td>
+<td>0.29</td>
+<td>0.20</td>
+<td>0.44</td>
+<td>29,000</td>
+<td>10.9</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/manitou-gold-inc-tsxv">Manitou Gold Inc.</a></td>
+<td>MTU.V</td>
+<td>0.18</td>
+<td class=neg>-0.025</td>
+<td class=neg>-13.89%</td>
+<td>0.14</td>
+<td>0.17</td>
+<td>0.05</td>
+<td>0.18</td>
+<td>91,660</td>
+<td>10.9</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Australia.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/hampton-hill-mining-nl-asx">Hampton Hill Mining NL</a></td>
+<td>HHM.AX</td>
+<td>0.04</td>
+<td class=neg>-0.001</td>
+<td class=neg>-2.63%</td>
+<td>0.04</td>
+<td>0.04</td>
+<td>0.01</td>
+<td>0.04</td>
+<td>350,000</td>
+<td>10.8</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/romios-gold-resources-inc-tsxv">Romios Gold Resources Inc.</a></td>
+<td>RG.V</td>
+<td>0.06</td>
+<td class=pos>0.005</td>
+<td class=pos>9.09%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.04</td>
+<td>0.08</td>
+<td>84,000</td>
+<td>10.7</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/ethos-gold-corp-tsxv">Ethos Gold Corp.</a></td>
+<td>ECC.V</td>
+<td>0.20</td>
+<td class=pos>0.025</td>
+<td class=pos>12.50%</td>
+<td>0.20</td>
+<td>0.23</td>
+<td>0.13</td>
+<td>0.30</td>
+<td>16,000</td>
+<td>10.7</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/vvc-exploration-corp-tsxv">VVC Exploration Corp.</a></td>
+<td>VVC.V</td>
+<td>0.05</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.05</td>
+<td>0.05</td>
+<td>0.02</td>
+<td>0.07</td>
+<td>11,000</td>
+<td>10.5</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/inca-one-resources-corp-tsxv">Inca One Resources Corp</a></td>
+<td>IO.V</td>
+<td>0.08</td>
+<td class=pos>0.005</td>
+<td class=pos>6.67%</td>
+<td>0.08</td>
+<td>0.08</td>
+<td>0.06</td>
+<td>0.23</td>
+<td>311,750</td>
+<td>10.2</td>
+</tr>
+<tr class=odd>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/goldgroup-mining-inc-tsx">Goldgroup Mining Inc.</a></td>
+<td>GGA.TO</td>
+<td>0.06</td>
+<td>0.000</td>
+<td>0.00%</td>
+<td>0.06</td>
+<td>0.06</td>
+<td>0.05</td>
+<td>0.18</td>
+<td>55,842</td>
+<td>10.2</td>
+</tr>
+<tr>
+<td style="text-align:center;"><input type="checkbox"></td>
+<td style="text-align:left;"><img src="images/flags/Canada.png" / width="16px" height="16px">&nbsp;&nbsp;<a  href="/stock/canamex-resources-corp-tsxv">Canamex Resources Corp.</a></td>
+<td>CSQ.V</td>
+<td>0.12</td>
+<td class=pos>0.045</td>
+<td class=pos>37.50%</td>
+<td>0.15</td>
+<td>0.20</td>
+<td>0.08</td>
+<td>0.20</td>
+<td>2,926,606</td>
+<td>10.1</td>
+</tr>
+</tbody></table>
