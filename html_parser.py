@@ -1,22 +1,19 @@
 from bs4 import BeautifulSoup
+import requests
 
 #Where data comes from
-#url = "http://www.miningfeeds.com/gold-mining-report-all-countries"
+goldStocks = "http://www.miningfeeds.com/gold-mining-report-all-countries"
 
-def parseGoldStocks():
-    fp = open("gold_stocks.txt", "r")
-    htmlString = fp.read()
-    fp.close()
-    stockSoup = BeautifulSoup(htmlString, 'html.parser')
-    table = stockSoup.find("table")
-    rows = table.findAll("tr")[1::]
-    data = [[]]
-    for row in rows:
-        col = row.findAll("td")[2]
-        ticker = str(col)
-        ticker = ticker.split("<td>")
-        ticker = ticker[1].split("</td>")
-        data.append(ticker[0])
-    return data[1::]
+#url must contain a table with tickers as the first table
+#and tickerColumn contains the column where the tickers are indexed at 0.
+def parseTickersFromHtmlTable(url, tickerColumn):
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, "lxml")
+    table = soup.find("table")
+    tickers = []
+    for row in table.findAll("tr")[1:]:
+        ticker = row.findAll("td")[tickerColumn].text
+        tickers.append(ticker)
+    return tickers
 
-print(parseGoldStocks())
+print(parseTickersFromHtmlTable(goldStocks, 2));
