@@ -2,9 +2,6 @@ from bs4 import BeautifulSoup
 import requests
 import pickle
 
-#Where data comes from
-goldStocks = "http://www.miningfeeds.com/gold-mining-report-all-countries"
-
 #url must contain a table with tickers as the first table
 #and tickerColumn contains the column where the tickers are indexed at 0.
 def parseTickersFromHtmlTable(url, tickerColumn, stockTypes):
@@ -20,5 +17,3 @@ def parseTickersFromHtmlTable(url, tickerColumn, stockTypes):
         pickle.dump(tickers, file)
 
     return tickers
-
-print(parseTickersFromHtmlTable(goldStocks, 2, "gold-stocks"));
