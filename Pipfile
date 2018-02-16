@@ -9,6 +9,7 @@ name = "pypi"
 
 requests = "*"
 "beautifulsoup4" = "*"
+pickleshare = "*"
 
 
 [dev-packages]
