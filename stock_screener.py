@@ -20,12 +20,15 @@ def getDataFromYahoo(url, tickerColumn, stockTypes, reloadTickers=False):
     if not os.path.exists(dataDir):
         os.makedirs(dataDir)
 
-    for ticker in tickers[:10]:
+    for ticker in tickers:
         dataFile = "./%s/%s.csv" % (dataDir, ticker)
         if not os.path.exists(dataFile):
+            print("Requesting: %s" % ticker)
             data = requests.get(baseurl + "%s/key-statistics?p=%s" % (ticker, ticker))
             soup = BeautifulSoup(data.text, "lxml")
             frames = pd.read_html(data.text)
+            if len(frames) < 3:
+                print("No data for: %s" % ticker)
             frame = pd.concat(frames)
             frame.to_csv(dataFile)
         else:
