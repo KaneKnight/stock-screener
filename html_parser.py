@@ -11,6 +11,8 @@ def parseTickersFromHtmlTable(url, tickerColumn, stockTypes):
     tickers = []
     for row in table.findAll("tr")[1:]:
         ticker = row.findAll("td")[tickerColumn].text
+        if (ticker == "GOLD.L"):
+            ticker = "RRS.L"
         tickers.append(ticker)
 
     with open(stockTypes + ".pickle", "wb") as file:

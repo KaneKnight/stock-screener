@@ -2,3 +2,5 @@
 *.pickle
 #no cache
 *.pyc
+#no .csv
+*.csv

@@ -11,16 +11,26 @@ goldStocks = "http://www.miningfeeds.com/gold-mining-report-all-countries"
 baseurl = "https://uk.finance.yahoo.com/quote/"
 def getDataFromYahoo(url, tickerColumn, stockTypes, reloadTickers=False):
     if reloadTickers:
-        tickers = parseTickersFromHtmlTable(url, tickerColumn, stockTypes)
+        tickers = parser.parseTickersFromHtmlTable(url, tickerColumn, stockTypes)
     else:
         with open(stockTypes + ".pickle", "rb") as file:
             tickers = pickle.load(file)
 
-    for ticker in tickers[:1]:
-        data = requests.get(baseurl + "%s/key-statistics?p=%s" % (ticker, ticker))
-        soup = BeautifulSoup(data.text, "lxml")
-        frame = pd.read_html(data.text)
-        
+    dataDir = "./%s_data" % stockTypes
+    if not os.path.exists(dataDir):
+        os.makedirs(dataDir)
+
+    for ticker in tickers[:10]:
+        dataFile = "./%s/%s.csv" % (dataDir, ticker)
+        if not os.path.exists(dataFile):
+            data = requests.get(baseurl + "%s/key-statistics?p=%s" % (ticker, ticker))
+            soup = BeautifulSoup(data.text, "lxml")
+            frames = pd.read_html(data.text)
+            frame = pd.concat(frames)
+            frame.to_csv(dataFile)
+        else:
+            print("Already have %s" % ticker)
 
 
-getDataFromYahoo(goldStocks, 2, "gold_stocks")
+
+getDataFromYahoo(goldStocks, 2, "gold_stocks", reloadTickers=True)
