@@ -10,6 +10,8 @@ goldStocks = "http://www.miningfeeds.com/gold-mining-report-all-countries"
 
 baseurl = "https://uk.finance.yahoo.com/quote/"
 
+unwantedRows = []
+
 
 class StockScreener:
     def __init__(self, stockTypes, baseurl = baseurl, goldStocks = goldStocks, reloadTickers = True):
@@ -29,7 +31,7 @@ class StockScreener:
             dataFile = "./%s/%s.csv" % (dataDir, ticker)
             data = None
             if not os.path.exists(dataFile):
-                data = self.saveData(dataFile, ticker)
+                data = self.saveDataAndReturnFrame(dataFile, ticker)
             else:
                 print("Already have %s" % ticker)
                 data = pd.read_csv(dataFile)
@@ -49,17 +51,31 @@ class StockScreener:
 
     def saveDataAndReturnFrame(self, dataFile, ticker):
         print("Requesting: %s" % ticker)
+
+        #Go to summary page and scrape open.
+        priceData = requests.get(baseurl + "%s?p=%s" % (ticker, ticker))
+        summaryFrames = pd.read_html(priceData.text)
+        summaryFrame = pd.concat(summaryFrames, ignore_index=True)
+        priceFrame = summaryFrame.loc[1:1]
+
+        #Go to stats page and scrape stats.
         data = requests.get(baseurl + "%s/key-statistics?p=%s" % (ticker, ticker))
-        soup = BeautifulSoup(data.text, "lxml")
         frames = pd.read_html(data.text)
         if len(frames) < 3:
             print("No data for: %s" % ticker)
-        frame = pd.concat(frames)
+
+        #Join stats and price
+        frames.append(priceFrame)
+        frame = pd.concat(frames, ignore_index=True)
+        print(frame)
+
+        #Save data
         frame.to_csv(dataFile)
         return frame
 
     def createStock(self, stockDataFrame):
-        print(stockDataFrame)
+        for index, row in stockDataFrame.iterrows():
+            pass
 
 def main():
     stockScreener = StockScreener("gold_stocks", reloadTickers = False)
