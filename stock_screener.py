@@ -5,6 +5,8 @@ import os
 import pandas as pd
 import requests
 from stock_object import Stock
+from string_number_converter import StringNumberConverter
+import math
 
 #Where tickers comes from
 goldStocks = "http://www.miningfeeds.com/gold-mining-report-all-countries"
@@ -45,10 +47,12 @@ class StockScreener:
         self.createDirIfItDoesntExist(dataDir)
 
         for ticker in self.tickers:
+            if ticker in ["GLF.AX", "AZ.TO"]:
+                continue
+            if ticker == "RRS.L":
+                ticker = "GOLD"
             dataFile = "./%s/%s.csv" % (dataDir, ticker)
             data = None
-            if ticker == "GLF.AX":
-                continue
             if not os.path.exists(dataFile):
                 data = self.saveDataAndReturnFrame(dataFile, ticker)
             else:
@@ -101,20 +105,36 @@ class StockScreener:
             value = series.get(1)
             dict[key] = value
             dict["ticker"] = ticker
+        marketCapString = dict["marketCap"]
+        if not isinstance(marketCapString, str):
+            return None
+        converter = StringNumberConverter(marketCapString)
+        marketCap = converter.convert()
+        print(marketCap)
+        print(marketCap < 500)
+        if marketCap < 500:
+            return None
+        dict["marketCap"] = marketCap
         return Stock(**dict)
 
     def calculateAveragesForSector(self):
         seriesList = []
         tickers = []
+        print(self.stocks)
         for stock in self.stocks:
+            if stock == None:
+                continue
             dict = stock.__dict__
             series = pd.Series(dict)
             series = series.drop(labels=["ticker"])
             tickers.append(stock.ticker)
             seriesList.append(series)
         frame = pd.concat(seriesList, axis=1, keys=tickers)
+        frame = frame.convert_objects(convert_numeric=True)
         frame = frame.sort_values(by="debtEquity", axis=1, ascending=True)
         print(frame)
+        average = frame.mean(axis=1, skipna=True)
+        print(average)
         frame.to_csv("output.csv")
 
 
