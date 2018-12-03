@@ -10,5 +10,6 @@ pickleshare = "*"
 pandas = "*"
 lxml = "*"
 jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
