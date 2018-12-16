@@ -12,5 +12,6 @@ lxml = "*"
 jupyter = "*"
 matplotlib = "*"
 seaborn = "*"
+"html5lib" = "*"
 
 [dev-packages]
