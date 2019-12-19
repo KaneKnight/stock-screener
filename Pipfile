@@ -13,5 +13,6 @@ jupyter = "*"
 matplotlib = "*"
 seaborn = "*"
 "html5lib" = "*"
+pymongo = {extras = ["srv"], version = "*"}
 
 [dev-packages]
